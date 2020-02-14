@@ -1,0 +1,1 @@
+create table if not exists collections (name varchar(255) not null primary key, algorithm varchar(255) not null, cache_limit integer not null, json_schema text not null);

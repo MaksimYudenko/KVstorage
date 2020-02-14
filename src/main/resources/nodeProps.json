@@ -1,0 +1,32 @@
+{
+  "node0": {
+    "url": "jdbc:postgresql://localhost:5432/db0",
+    "username": "maksim",
+    "password": "yudenko"
+  },
+  "node1": {
+    "url": "jdbc:postgresql://localhost:5432/db1",
+    "username": "maksim",
+    "password": "yudenko"
+  },
+  "node2": {
+    "url": "jdbc:postgresql://localhost:5432/db2",
+    "username": "maksim",
+    "password": "yudenko"
+  },
+  "node3": {
+    "url": "jdbc:postgresql://localhost:5432/db3",
+    "username": "maksim",
+    "password": "yudenko"
+  },
+  "node4": {
+    "url": "jdbc:postgresql://localhost:5432/db4",
+    "username": "maksim",
+    "password": "yudenko"
+  },
+  "node5": {
+    "url": "jdbc:postgresql://localhost:5432/db5",
+    "username": "maksim",
+    "password": "yudenko"
+  }
+}

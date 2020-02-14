@@ -1,0 +1,43 @@
+{
+  "groups": [
+    {
+      "id": "0",
+      "list": [
+        {
+          "name": "node0",
+          "url": "http://localhost:8080"
+        },
+        {
+          "name": "node1",
+          "url": "http://localhost:10001"
+        },
+        {
+          "name": "node2",
+          "url": "http://localhost:10002"
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "list": [
+        {
+          "name": "node3",
+          "url": "http://localhost:10003"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "list": [
+        {
+          "name": "node4",
+          "url": "http://localhost:10004"
+        },
+        {
+          "name": "node5",
+          "url": "http://localhost:10005"
+        }
+      ]
+    }
+  ]
+}
